@@ -1,0 +1,27 @@
+.maincontainer {
+    margin: 20px auto 20px auto;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    height: 1500px;
+}
+
+body {
+    background: rgb(232, 235, 235);
+}
+
+.adminSearchTable {
+    width: 500px;
+}
+
+.wareSearchDiv {
+    width: 500px;
+    margin: auto;
+}
+
+.adminMenuLinkDiv {
+    margin-top: 50px;
+}
+
+#wareSearchThead {
+    cursor: pointer;
+}

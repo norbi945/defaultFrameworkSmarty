@@ -1,0 +1,182 @@
+<br />
+<b>Notice</b>:  Undefined variable: children in <b>C:\xampp\htdocs\3DWebshop\Core\Menus\CategoriesMainMenu.php</b> on line <b>19</b><br />
+NULL
+array(3) {
+  [0]=>
+  array(10) {
+    ["id"]=>
+    string(1) "1"
+    ["name"]=>
+    string(2) "Tv"
+    ["parentCategoryId"]=>
+    string(1) "0"
+    ["upUserId"]=>
+    string(1) "0"
+    ["upTime"]=>
+    string(10) "1643835644"
+    ["modUserId"]=>
+    string(1) "0"
+    ["modTime"]=>
+    string(1) "0"
+    ["delUserId"]=>
+    string(1) "0"
+    ["delTime"]=>
+    string(1) "0"
+    ["children"]=>
+    array(2) {
+      [0]=>
+      array(9) {
+        ["id"]=>
+        string(1) "2"
+        ["name"]=>
+        string(8) "smart Tv"
+        ["parentCategoryId"]=>
+        string(1) "1"
+        ["upUserId"]=>
+        string(1) "0"
+        ["upTime"]=>
+        string(10) "1643835738"
+        ["modUserId"]=>
+        string(1) "0"
+        ["modTime"]=>
+        string(1) "0"
+        ["delUserId"]=>
+        string(1) "0"
+        ["delTime"]=>
+        string(1) "0"
+      }
+      [1]=>
+      array(10) {
+        ["id"]=>
+        string(1) "6"
+        ["name"]=>
+        string(6) "Led Tv"
+        ["parentCategoryId"]=>
+        string(1) "1"
+        ["upUserId"]=>
+        string(1) "0"
+        ["upTime"]=>
+        string(10) "1644007223"
+        ["modUserId"]=>
+        string(1) "0"
+        ["modTime"]=>
+        string(1) "0"
+        ["delUserId"]=>
+        string(1) "0"
+        ["delTime"]=>
+        string(1) "0"
+        ["children"]=>
+        array(2) {
+          [0]=>
+          array(9) {
+            ["id"]=>
+            string(1) "7"
+            ["name"]=>
+            string(5) "Lg tv"
+            ["parentCategoryId"]=>
+            string(1) "6"
+            ["upUserId"]=>
+            string(1) "0"
+            ["upTime"]=>
+            string(10) "1644010031"
+            ["modUserId"]=>
+            string(1) "0"
+            ["modTime"]=>
+            string(1) "0"
+            ["delUserId"]=>
+            string(1) "0"
+            ["delTime"]=>
+            string(1) "0"
+          }
+          [1]=>
+          array(10) {
+            ["id"]=>
+            string(1) "8"
+            ["name"]=>
+            string(9) "SamsungTv"
+            ["parentCategoryId"]=>
+            string(1) "6"
+            ["upUserId"]=>
+            string(1) "0"
+            ["upTime"]=>
+            string(10) "1644010975"
+            ["modUserId"]=>
+            string(1) "0"
+            ["modTime"]=>
+            string(1) "0"
+            ["delUserId"]=>
+            string(1) "0"
+            ["delTime"]=>
+            string(1) "0"
+            ["children"]=>
+            array(1) {
+              [0]=>
+              array(9) {
+                ["id"]=>
+                string(1) "9"
+                ["name"]=>
+                string(15) "SamsungTv smart"
+                ["parentCategoryId"]=>
+                string(1) "8"
+                ["upUserId"]=>
+                string(1) "0"
+                ["upTime"]=>
+                string(10) "1644015046"
+                ["modUserId"]=>
+                string(1) "0"
+                ["modTime"]=>
+                string(1) "0"
+                ["delUserId"]=>
+                string(1) "0"
+                ["delTime"]=>
+                string(1) "0"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  [1]=>
+  array(9) {
+    ["id"]=>
+    string(1) "4"
+    ["name"]=>
+    string(7) "Telefon"
+    ["parentCategoryId"]=>
+    string(1) "0"
+    ["upUserId"]=>
+    string(1) "0"
+    ["upTime"]=>
+    string(10) "1643839678"
+    ["modUserId"]=>
+    string(1) "0"
+    ["modTime"]=>
+    string(1) "0"
+    ["delUserId"]=>
+    string(1) "0"
+    ["delTime"]=>
+    string(1) "0"
+  }
+  [2]=>
+  array(9) {
+    ["id"]=>
+    string(1) "5"
+    ["name"]=>
+    string(4) "Ruha"
+    ["parentCategoryId"]=>
+    string(1) "0"
+    ["upUserId"]=>
+    string(1) "0"
+    ["upTime"]=>
+    string(10) "1643922184"
+    ["modUserId"]=>
+    string(1) "0"
+    ["modTime"]=>
+    string(1) "0"
+    ["delUserId"]=>
+    string(1) "0"
+    ["delTime"]=>
+    string(1) "0"
+  }
+}

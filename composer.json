@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Controller\\" : "Controller",
+            "Core\\": "Core",
+            "Model\\": "Model",
+            "Functions\\": "Functions"
+        }
+    },
+    "require": {
+        "smarty/smarty": "^4.0"
+    }
+}
